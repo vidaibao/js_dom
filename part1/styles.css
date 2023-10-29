@@ -1,0 +1,25 @@
+body {
+    background-color: darkslategray;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+ul {
+    align-content: center;
+}
+
+.list-items {
+    border: solid;
+    text-align: center;
+    width: 300px;
+    background-color: aliceblue;
+}
+
+.container {
+    border: solid;
+    border-color: azure;
+    border-radius: 15px;
+}
